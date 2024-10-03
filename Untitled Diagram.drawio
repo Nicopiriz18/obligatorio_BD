@@ -11,10 +11,13 @@
           <mxGeometry y="50" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="iupofRJ8wWLY9DJQLIAq-18" value="Asistente virtual" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="250" width="170" height="150" as="geometry" />
+          <mxGeometry x="100" y="480" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="iupofRJ8wWLY9DJQLIAq-19" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: 700; text-decoration-line: underline; font-size: 14px;&quot;&gt;-PK:?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;-Avatar&lt;/div&gt;&lt;div style=&quot;&quot;&gt;-Nombre&lt;/div&gt;&lt;div style=&quot;&quot;&gt;-Idiomas*&lt;/div&gt;&lt;div style=&quot;&quot;&gt;-Genero&lt;/div&gt;&lt;div style=&quot;&quot;&gt;-Historia de fondo&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="iupofRJ8wWLY9DJQLIAq-18">
           <mxGeometry y="50" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iupofRJ8wWLY9DJQLIAq-22" value="Asistente virtual" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
