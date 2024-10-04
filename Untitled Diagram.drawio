@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="4373" dy="2800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3551" dy="2277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -290,7 +290,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KtzyX72T2Gwea7DbD6GW-35" value="Adquiere" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-510" y="-944.86" width="120" height="60" as="geometry" />
+          <mxGeometry x="-510" y="-970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KtzyX72T2Gwea7DbD6GW-37" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ym-8wmkTFj6tnmEXw8m-7" target="KtzyX72T2Gwea7DbD6GW-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -370,13 +370,13 @@
         <mxCell id="KtzyX72T2Gwea7DbD6GW-63" value="Respuesta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="45" y="-318" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KtzyX72T2Gwea7DbD6GW-64" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KtzyX72T2Gwea7DbD6GW-35" target="KtzyX72T2Gwea7DbD6GW-67">
+        <mxCell id="KtzyX72T2Gwea7DbD6GW-64" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-570" y="-751" as="sourcePoint" />
-            <mxPoint x="-50" y="-710" as="targetPoint" />
+            <mxPoint x="-390" y="-934.86" as="sourcePoint" />
+            <mxPoint x="20" y="-690" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-180" y="-915" />
-              <mxPoint x="-180" y="-670" />
+              <mxPoint x="-180" y="-935" />
+              <mxPoint x="-180" y="-690" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -795,6 +795,18 @@
         </mxCell>
         <mxCell id="KtzyX72T2Gwea7DbD6GW-194" value="CantMonedas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-25" y="-920" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KtzyX72T2Gwea7DbD6GW-195" value="" style="endArrow=none;html=1;rounded=0;exitX=0.099;exitY=-0.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KtzyX72T2Gwea7DbD6GW-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="-680" as="sourcePoint" />
+            <mxPoint x="20" y="-690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KtzyX72T2Gwea7DbD6GW-196" value="(1,1&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="60.0003030303028" y="-675" as="geometry" />
+        </mxCell>
+        <mxCell id="KtzyX72T2Gwea7DbD6GW-197" value="(1,1&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="68.0003030303028" y="-820" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
